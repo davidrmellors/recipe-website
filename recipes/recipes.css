@@ -1,0 +1,52 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #fff;
+    color: rgb(87, 87, 87);
+    text-align: center;
+    margin: 0;
+}
+img{
+    width: auto;
+    height: 300px;
+    border-radius: 5%;
+}
+
+a:visited {
+    color: black;
+}
+
+ul {
+    display: inline-block;
+}
+
+#recipe ul,
+#recipe ol {
+    text-align: left;
+}
+
+#recipe {
+    max-width: 50%;
+    margin: 0 auto;
+}
+
+#navbar button {
+    font-size: 22px;
+    font-weight: 800;
+    text-decoration: none;
+    margin: 0 0 20px 0;
+    background-color: #fff;
+    color: rgb(87, 87, 87);
+    box-shadow: -2px 2px rgba(0, 0, 0, 0.284);
+}
+
+#navbar button:hover{
+    cursor: pointer;
+}
+p {
+    text-align: left;
+}
+
+h3 {
+    font-weight: 600;
+    color: #707070;
+}

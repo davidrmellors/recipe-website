@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    border: 0;
+}
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #fff;
+    color: black;
+    text-align: center;
+    font-weight: bold;
+}
+
+a:visited {
+    color: black;
+}
+
+#nav-bar {
+    margin: 10px 0;
+}
+
+ul {
+    display: inline-block;
+}
+
+img{
+    width: auto;
+    height: 200px;
+    border-radius: 5%;
+}
+
+img:hover{
+    height: 210px;
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    display: inline-block;
+    margin: 10px;
+}
+
